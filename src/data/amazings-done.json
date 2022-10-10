@@ -1,0 +1,598 @@
+[
+  {
+    "country": "France",
+    "department": "Operations"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "Moldova",
+    "department": "Marketing"
+  },
+  {
+    "country": "Poland",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "South Africa",
+    "department": "Engineering"
+  },
+  {
+    "country": "France",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Marketing"
+  },
+  {
+    "country": "Israel",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Product"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "Belgium",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Customer Success"
+  },
+  {
+    "country": "Portugal",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Experience"
+  },
+  {
+    "country": "Netherlands",
+    "department": "Marketing"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Support"
+  },
+  {
+    "country": "Poland",
+    "department": "Marketing"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Marketing"
+  },
+  {
+    "country": "Philippines",
+    "department": "Marketing"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "France",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Support"
+  },
+  {
+    "country": "France",
+    "department": "Experience Design"
+  },
+  {
+    "country": "Spain",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Support"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "department": "People"
+  },
+  {
+    "country": "France",
+    "department": "Product"
+  },
+  {
+    "country": "Ukraine",
+    "department": "Customer Support"
+  },
+  {
+    "country": "Poland",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Marketing"
+  },
+  {
+    "country": "Malta",
+    "department": "Product"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Success"
+  },
+  {
+    "country": "Spain",
+    "department": "Marketing"
+  },
+  {
+    "country": "Netherlands",
+    "department": "Engineering"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Marketing"
+  },
+  {
+    "country": "France",
+    "department": "Engineering"
+  },
+  {
+    "country": "Poland",
+    "department": "Sales"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "Portugal",
+    "department": "Engineering"
+  },
+  {
+    "country": "Croatia",
+    "department": "Engineering"
+  },
+  {
+    "country": "Portugal",
+    "department": "Engineering"
+  },
+  {
+    "country": "Malta",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Croatia",
+    "department": "People"
+  },
+  {
+    "country": "France",
+    "department": "Product"
+  },
+  {
+    "country": "Canada",
+    "department": "Data"
+  },
+  {
+    "country": "Portugal",
+    "department": "Marketing"
+  },
+  {
+    "country": "Spain",
+    "department": "People"
+  },
+  {
+    "country": "Estonia",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Denmark",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "Latvia",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Experience"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Support"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "Philippines",
+    "department": "Marketing"
+  },
+  {
+    "country": "Brazil",
+    "department": "Experience Design"
+  },
+  {
+    "country": "Canada",
+    "department": "Marketing"
+  },
+  {
+    "country": "Spain",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Argentina",
+    "department": "People"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Operations"
+  },
+  {
+    "country": "Croatia",
+    "department": "Engineering"
+  },
+  {
+    "country": "Estonia",
+    "department": "Engineering"
+  },
+  {
+    "country": "Brazil",
+    "department": "Engineering"
+  },
+  {
+    "country": "Nigeria",
+    "department": "Sales"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Operations, Sales"
+  },
+  {
+    "country": "Netherlands",
+    "department": "Customer Success"
+  },
+  {
+    "country": "Canada",
+    "department": "Sales"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Education"
+  },
+  {
+    "country": "Sweden",
+    "department": "Engineering"
+  },
+  {
+    "country": "Kenya",
+    "department": "People"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "United States of America",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Design"
+  },
+  {
+    "country": "Portugal",
+    "department": "Customer Support"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Australia",
+    "department": "Customer Support"
+  },
+  {
+    "country": "Croatia",
+    "department": "Engineering"
+  },
+  {
+    "country": "Andorra",
+    "department": "Engineering"
+  },
+  {
+    "country": "Portugal",
+    "department": "Product"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "Serbia",
+    "department": "Engineering"
+  },
+  {
+    "country": "Czech Republic",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Spain",
+    "department": "Marketing"
+  },
+  {
+    "country": "Romania",
+    "department": "Engineering"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Customer Support"
+  },
+  {
+    "country": "Spain",
+    "department": "Design"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Support"
+  },
+  {
+    "country": "United States of America",
+    "department": "People"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "Czech Republic",
+    "department": "Engineering"
+  },
+  {
+    "country": "Canada",
+    "department": "Customer Success"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Success"
+  },
+  {
+    "country": "United States of America",
+    "department": "Marketing"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Switzerland",
+    "department": "Engineering"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Marketing"
+  },
+  {
+    "country": "Canada",
+    "department": "Sales"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Product"
+  },
+  {
+    "country": "Portugal",
+    "department": "Engineering"
+  },
+  {
+    "country": "Netherlands",
+    "department": "Marketing"
+  },
+  {
+    "country": "Georgia",
+    "department": "Engineering"
+  },
+  {
+    "country": "France",
+    "department": "Sales"
+  },
+  {
+    "country": "Pakistan",
+    "department": "Revenue Operations"
+  },
+  {
+    "country": "Spain",
+    "department": "Experience Design"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Customer Support"
+  },
+  {
+    "country": "Bulgaria",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Latvia",
+    "department": "Engineering"
+  },
+  {
+    "country": "Poland",
+    "department": "Marketing"
+  },
+  {
+    "country": "United States of America",
+    "department": "Marketing"
+  },
+  {
+    "country": "Poland",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Engineering"
+  },
+  {
+    "country": "Hungary",
+    "department": "People"
+  },
+  {
+    "country": "Portugal",
+    "department": "Experience Design"
+  },
+  {
+    "country": "United States of America",
+    "department": "Sales"
+  },
+  {
+    "country": "Spain",
+    "department": "Sales"
+  },
+  {
+    "country": "Spain",
+    "department": "People"
+  },
+  {
+    "country": "United States of America",
+    "department": "Engineering"
+  },
+  {
+    "country": "Germany",
+    "department": "Engineering"
+  },
+  {
+    "country": "Spain",
+    "department": "Engineering"
+  },
+  {
+    "country": "Canada",
+    "department": "Customer Success"
+  },
+  {
+    "country": "France, Netherlands",
+    "department": "Sales"
+  },
+  {
+    "country": "Denmark",
+    "department": "Sales"
+  },
+  {
+    "country": "Germany",
+    "department": "Engineering"
+  },
+  {
+    "country": "United States of America",
+    "department": "Marketing"
+  },
+  {
+    "country": "Italy",
+    "department": "Product"
+  },
+  {
+    "country": "Spain",
+    "department": "Product"
+  },
+  {
+    "country": "Ukraine",
+    "department": "Product"
+  },
+  {
+    "country": "Portugal",
+    "department": "Engineering"
+  },
+  {
+    "country": "United Kingdom",
+    "department": "Sales"
+  }
+]
